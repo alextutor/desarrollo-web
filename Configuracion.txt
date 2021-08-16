@@ -1,0 +1,4 @@
+Activa la compresión Gzip desde el admin de wordpress
+Para hacer esto, nos tenemos que ir a la «sección» oculta del admin de wordpress, donde marcamos la opciones generales del sitio. Para hacer esto, debemos ingresar desde la siguiente URL
+
+https://www.desarrollo-web.com/wp-admin/options.php

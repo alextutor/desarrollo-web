@@ -1,0 +1,22 @@
+www.desarrollo-web.com
+root
+
+------------Base de datos--------------------------
+base de datos= desarrollo-web 
+usuario = user1web
+contraseña=  JWD.RNmM9izQ-*Mp 
+--------------------------------------------
+
+-------------Administrador de Wordpress---------------------
+Usuario= alextutor
+Contraseña= RqtSjEBZyrkvlM#TzC
+--------------------------------------------
+
+---------Tema  OceanWP-----------------------------------
+
+Tema Hijo OceanWP
+https://docs.oceanwp.org/article/90-sample-child-theme
+
+--------------------------------------------
+
+«servidor Low Cost»
